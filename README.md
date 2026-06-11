@@ -5,8 +5,11 @@
 **Author:** Victor J. Rosario — Founder & CEO, The Equation Agency LLC  
 **Location:** Miami-Dade County, Florida, USA  
 **Submitted to SpaceX:** June 10, 2026  
-**Email:** theequationagency@icloud.com  
-**Website:** theequationagencyllc.com
+
+**Email:** management@theequationagencyllc.com
+
+**Website:** 
+theequationagencyllc.com
 
 ---
 
