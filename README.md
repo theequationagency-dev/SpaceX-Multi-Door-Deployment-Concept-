@@ -77,7 +77,7 @@ At orbital velocities exceeding 26,000 km/h, a single debris strike, mechanical 
 Victor J. Rosario — Founder & CEO  
 Miami-Dade County, Florida, USA  
 786-669-8945  
-theequationagency@icloud.com  
+management@theequationagencyllc.com 
 theequationagencyllc.com
 
 ---
