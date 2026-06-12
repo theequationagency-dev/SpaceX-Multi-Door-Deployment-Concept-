@@ -75,7 +75,8 @@ At orbital velocities exceeding 26,000 km/h, a single debris strike, mechanical 
 
 **The Equation Agency LLC**  
 Victor J. Rosario — Founder & CEO  
-Miami-Dade County, Florida, USA  
+Aventura, Florida, USA  
+Miami-Dade County
 786-669-8945  
 management@theequationagencyllc.com 
 theequationagencyllc.com
