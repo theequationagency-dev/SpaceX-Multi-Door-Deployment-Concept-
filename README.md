@@ -13,6 +13,10 @@ theequationagencyllc.com
 
 ---
 
+![Distributed Multi-Door Deployment System — Starship fuselage cross-section showing four independent doors at distributed azimuths](assets/multi-door-layout.svg)
+
+---
+
 ## Overview
 
 This repository contains an original engineering concept proposing a distributed multi-door payload bay deployment system for SpaceX Starship. The concept was developed and submitted by The Equation Agency LLC based on direct observation of Starship Flight Test deployment operations.
@@ -46,6 +50,12 @@ At orbital velocities exceeding 26,000 km/h, a single debris strike, mechanical 
   Port         |           Starboard
          [Door 4 - Upper Starboard]
 ```
+
+---
+
+## Contingency Mode — Graceful Degradation
+
+![Contingency reroute workflow — debris strike, retract, reroute to alternate door, inspect, redeploy, mission continues](assets/contingency-reroute.svg)
 
 ---
 
