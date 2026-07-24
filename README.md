@@ -13,7 +13,7 @@ theequationagencyllc.com
 
 ---
 
-![Distributed Multi-Door Deployment System — Starship fuselage cross-section showing four independent doors at distributed azimuths](assets/multi-door-layout.svg)
+![Multi-Door Payload Bay Deployment System — SpaceX Starship redundancy upgrade concept by The Equation Agency LLC: four independent doors, two primary operational and two standby redundancy, eliminating the single point of failure](assets/multi-door-deployment-concept.png)
 
 ---
 
