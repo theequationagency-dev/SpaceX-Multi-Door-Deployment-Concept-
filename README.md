@@ -15,6 +15,8 @@ theequationagencyllc.com
 
 ![Multi-Door Payload Bay Deployment System — SpaceX Starship redundancy upgrade concept by The Equation Agency LLC: four independent doors, two primary operational and two standby redundancy, eliminating the single point of failure](assets/multi-door-deployment-concept.png)
 
+![Technical schematic — Starship side profile and azimuth cross-section showing four independent deployment doors, with key metrics: 4 independent doors, zero mission loss, negligible 9 m azimuth offset, and full retract-inspect-redeploy recovery](assets/starship-blueprint.svg)
+
 ---
 
 ## Overview
